@@ -512,7 +512,7 @@ footer img {
 	
 }
 
-@media(min-width: 150px) and (max-width: 300px){
+@media(min-width: 300px) and (max-width: 600px){
 	.proyecto {
 		margin-top: 2%;
 		display: block;
